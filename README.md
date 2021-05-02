@@ -1,8 +1,10 @@
+My dull intro hehe
+
 - 👋 Hi, I’m Kyle Escosia!
 - 👀 I’m interested in ...
-  Anything about data and AWS <3
+  - Anything about data and AWS <3
 - 🌱 I’m currently learning ...
-  AWS Big Data Portfolio, Data Engineering, Data Science, Machine Learning
+  - AWS Big Data Portfolio, Data Engineering, Data Science, Machine Learning
   
   
 - 📫 How to reach me ...
