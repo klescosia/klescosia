@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kyle</h1>
 <h3 align="center">A data lover from PH</h3>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12149390486&cover_image=true&theme=novatorem&bar_color=4e6fb1&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12149390486&redirect=true)
+
+
 - 📝 I regularly write articles on [https://dev.to/klescosia](https://dev.to/klescosia)
 
 - 💬 Ask me anything about **data!**
@@ -27,5 +30,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/klescosia "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="klescosia " /></a></p><br><br>
 
- 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12149390486&cover_image=true&theme=default&bar_color=4e6fb1&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
