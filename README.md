@@ -4,11 +4,15 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12149390486&cover_image=true&theme=novatorem&bar_color=4e6fb1&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12149390486&redirect=true)
 
 
-- 📝 I "regularly" write articles on [https://dev.to/klescosia](https://dev.to/klescosia)
+- 📝 I ~~regularly~~ write articles on [https://dev.to/klescosia](https://dev.to/klescosia)
 
 - 💬 Ask me anything about **data!**
 
 - 📫 How to reach me **escosiakyle@gmail.com**
+
+- 🔭 I’m currently working on **anything that interests me**
+
+- 🌱 I’m currently learning **DevOps/DataOps, Data Engineering, Solutions Architect Professional**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -20,8 +24,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/klescosia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="klescosia" height="30" width="40" /></a>
+<a href="https://dev.to/klescosia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="klescosia" height="50" width="70" /></a>
 <a href="https://linkedin.com/in/klescosia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="klescosia" height="30" width="40" /></a>
+<a href="https://myanimelist.net/profile/hiibari29" target="blank"><img align="center" src="https://image.myanimelist.net/ui/OK6W_koKDTOqqqLDbIoPAiC8a86sHufn_jOI-JGtoCQ" alt="klescosia" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Certified:</h3>
