@@ -9,6 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [SQL-based INSERTS, DELETES and UPSERTS in S3 using AWS Glue 3.0 and Delta Lake](https://dev.to/awscommunity-asean/sql-based-inserts-deletes-and-upserts-in-s3-using-aws-glue-3-0-and-delta-lake-42f0)
+- [UPSERTS and DELETES using AWS Glue and Delta Lake](https://dev.to/awscommunity-asean/making-your-data-lake-acid-compliant-using-aws-glue-and-delta-lake-gk9)
+- [I passed the AWS Data Analytics Specialty Exam! &lpar;DAS-C01&rpar;](https://dev.to/awscommunity-asean/i-passed-the-aws-data-analytics-specialty-exam-das-c01-3a83)
+- [Introduction to the AWS Big Data Portfolio](https://dev.to/awscommunity-asean/introduction-to-the-aws-big-data-portfolio-2539)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
