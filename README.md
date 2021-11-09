@@ -1,22 +1,3 @@
-<!-- My dull intro hehe
-
-- 👋 Hi, I’m Kyle Escosia!
-- 👀 I’m interested in ...
-  - Anything about data and AWS ❤️
-- 🌱 I’m currently learning ...
-  - AWS Big Data Portfolio, Data Engineering, Data Science, Machine Learning, Blockchain
-  
-  
-- 📫 How to reach me ...
-  Email: escosiakyle@gmail.com
-<!---
-klescosia/klescosia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12149390486&cover_image=true&theme=natemoo-re&bar_color=4e6fb1&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
 <h1 align="center">Hi 👋, I'm Kyle</h1>
 <h3 align="center">A data lover from PH 🇵🇭</h3>
 
@@ -28,20 +9,6 @@ You can click the Preview link to take a look at your changes.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-name: Latest blog post workflow
-on: 
-    schedule:
-        - cron: '0 * * * *'
-jobs: 
-    update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
-        runs-on: ubuntu-latest
-        steps: 
-            - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
-                max_post_count: "4"
-                feed_list: "https://dev.to/feed/klescosia"
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -55,3 +22,6 @@ jobs:
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/klescosia "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="klescosia " /></a></p><br><br>
+
+ 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12149390486&cover_image=true&theme=natemoo-re&bar_color=4e6fb1&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
