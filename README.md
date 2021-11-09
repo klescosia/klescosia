@@ -13,6 +13,5 @@
 klescosia/klescosia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- -->
  
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12149390486&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12149390486&cover_image=true&theme=natemoo-re&bar_color=4e6fb1&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
