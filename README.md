@@ -4,7 +4,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12149390486&cover_image=true&theme=novatorem&bar_color=4e6fb1&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12149390486&redirect=true)
 
 
-- 📝 I ~~regularly~~ write articles on [https://dev.to/klescosia](https://dev.to/klescosia)
+- 📝 I ~~regularly~~ write articles on [dev.to](https://dev.to/klescosia)
 
 - 💬 Ask me anything about **data!**
 
